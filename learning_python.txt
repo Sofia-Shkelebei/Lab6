@@ -1,0 +1,5 @@
+In Python you can create variables and assign values to them.
+In Python you can use different types of loops.
+In Python you can store data in lists.
+In Python you can divide your program into blocks using functions.
+In Python you can open files and work with them.
